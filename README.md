@@ -1,2 +1,10 @@
 # Anime-Quotes
 Random anime quotes with anime and character, cheer up
+# Termux
+<hr><b>
+pkg install git<br>
+pkg install curl<br>
+pkg install nodejs<br>
+git clone https://github.com/renlowsphere/Anime-Quotes<br>
+cd Anime-Quotes<br>
+node quote.js
