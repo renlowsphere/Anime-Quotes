@@ -1,5 +1,5 @@
 # Anime-Quotes
-Random anime quotes with anime and character, cheer up
+Random anime quotes with anime title and character's name, cheer up
 # Termux
 <hr><b>
 pkg install git<br>
